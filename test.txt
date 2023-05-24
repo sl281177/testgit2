@@ -6,3 +6,5 @@ GRAT-1000: (2) Z1
 GRAT-1000: (2) Z2
 
 Die Änderung wurde direkt in release/4.0.0 gemacht
+
+GRAT-1000: (3) Z1
