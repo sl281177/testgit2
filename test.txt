@@ -1,1 +1,3 @@
 Init: Das ist ein Test
+GRAT-1000: Neue Zeile
+GRAT-1000: Zweite Zeile
